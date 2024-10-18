@@ -1,4 +1,4 @@
-These are several tryout for tying to learn Python and work with GitHub at the same time.
+These are several tryouts for tlearning Python and work with GitHub at the same time.
 
 First is a creation of a virtual space and a simple Python array.
 
